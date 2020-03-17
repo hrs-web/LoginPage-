@@ -1,4 +1,4 @@
-package cn.itcase.domain;
+package cn.hrs.domain;
 
 public class User {
     private int id;

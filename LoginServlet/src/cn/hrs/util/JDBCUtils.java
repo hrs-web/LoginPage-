@@ -1,4 +1,4 @@
-package cn.itcase.util;
+package cn.hrs.util;
 
 import com.alibaba.druid.pool.DruidDataSourceFactory;
 

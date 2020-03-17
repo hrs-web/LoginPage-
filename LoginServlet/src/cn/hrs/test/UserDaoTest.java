@@ -1,8 +1,8 @@
-package cn.itcase.test;
+package cn.hrs.test;
 
 
-import cn.itcase.dao.UserDao;
-import cn.itcase.domain.User;
+import cn.hrs.dao.UserDao;
+import cn.hrs.domain.User;
 import org.junit.Test;
 
 public class UserDaoTest {

@@ -1,7 +1,7 @@
-package cn.itcase.dao;
+package cn.hrs.dao;
 
-import cn.itcase.domain.User;
-import cn.itcase.util.JDBCUtils;
+import cn.hrs.domain.User;
+import cn.hrs.util.JDBCUtils;
 import org.springframework.dao.DataAccessException;
 import org.springframework.jdbc.core.BeanPropertyRowMapper;
 import org.springframework.jdbc.core.JdbcTemplate;
